@@ -27,5 +27,5 @@ Which models and factors would be most effective in predicting heart disease?
 
 ## References
 
-https://www.statology.org/correlation-between-categorical-variables/
-https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php
+- <https://www.statology.org/correlation-between-categorical-variables/>
+- <https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php>
