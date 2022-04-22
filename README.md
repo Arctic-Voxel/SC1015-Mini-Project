@@ -6,9 +6,9 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Contributors
 
-Samuel Ong Jing Siang
+Samuel Ong Jing Siang @sojs-coding
 Ong Jun Heng
-Leong Jun Yi
+Leong Jun Yi @Arctic-Voxel
 
 ## Problem Definition
 
@@ -29,3 +29,5 @@ Which models and factors would be most effective in predicting heart disease?
 
 - <https://www.statology.org/correlation-between-categorical-variables/>
 - <https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php>
+- <https://www.google.com/search?client=firefox-b-d&q=why+do+we+remove+outliers>
+- <https://machinelearningmastery.com/feature-selection-with-categorical-data/>
