@@ -7,7 +7,7 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors
 
 - Samuel Ong Jing Siang @sojs-coding
-- Ong Jun Heng
+- Ong Jun Heng @Miizy
 - Leong Jun Yi @Arctic-Voxel
 
 ## Problem Definition
