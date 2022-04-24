@@ -15,6 +15,11 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 Based on the dataset are we able to predict heart disease based on certain health attributes?
 Which models and factors would be most effective in predicting heart disease?
 
+## Tools Used
+
+As our dataset is highly Categorical, we used two preprocessing tools such as the OrdinalEncoder and the LabelEncoder to prepare our train and test.
+Afterwards, we used the SelectKBest tool that is capable of selecting features according to the k highest scores using the Chi. This helps us to find the features that are the highly like to be irrelevant for classification.
+
 ## Models Used
 
 Logistic Regression - Models the probability of a discrete outcome, in our case binary (Yes/ No to Heart Disease)
