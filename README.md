@@ -17,13 +17,15 @@ Which models and factors would be most effective in predicting heart disease?
 
 ## Models Used
 
-1. something
-2. somethings
+Logistic Regression
 
 ## Conclusion
 
+Based on the correlation we calculated, we removed the variables that did not contribute to the model whilst recording the model accuracy. These variables include 'Mental Health', 'Sleep Time', 'BMI', 'Physical Activity' and 'General Health'. Though 'Race' had a low correlation, when removed from the model, the accuracy had a considerable deprovement, as such we decided to keep it in the model. Through this, we can see that variables such as 'Physical Health' and 'Age Category' are good predictors for Heart Disease. 
 
 ## Learning points
+
+
 
 ## References
 
