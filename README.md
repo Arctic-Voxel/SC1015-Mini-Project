@@ -25,11 +25,16 @@ Based on the correlation we calculated, we removed the variables that did not co
 
 ## Learning points
 
-
+1. Representing minority data through log scale
+2. Upsampling to prevent statiscal bias when there is an imbalance in the number of entries for each variable
+3. Methods of finding correlation against a binary variable (HeartDisease)
+  - Tetrachoric Correlation (Binary to Binary)
+  - Spearman's Rank Order Correlation (Ordinal to Binary)
+  - Cramer's V (Nominal to Binary)
+ 4. Selection Technique (Chi-Squared Statistics)
 
 ## References
 
 - <https://www.statology.org/correlation-between-categorical-variables/>
 - <https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php>
-- <https://www.google.com/search?client=firefox-b-d&q=why+do+we+remove+outliers>
 - <https://machinelearningmastery.com/feature-selection-with-categorical-data/>
