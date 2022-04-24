@@ -13,7 +13,7 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 ## Problem Definition
 
 Based on the dataset are we able to predict heart disease based on certain health attributes?
-Which models and factors would be most effective in predicting heart disease?
+Which factors would be most effective in predicting heart disease?
 
 ## Tools Used
 
