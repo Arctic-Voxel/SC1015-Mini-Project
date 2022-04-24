@@ -17,7 +17,7 @@ Which models and factors would be most effective in predicting heart disease?
 
 ## Models Used
 
-Logistic Regression
+Logistic Regression - Models the probability of a discrete outcome, in our case binary (Yes/ No to Heart Disease)
 
 ## Conclusion
 
