@@ -31,7 +31,7 @@ Logistic Regression - Models the probability of a discrete outcome, in our case 
 
 Based on the correlation we calculated, we removed the variables that did not contribute to the model whilst recording the model accuracy. These variables include 'Mental Health', 'Sleep Time', 'BMI', 'Physical Activity' and 'General Health'. Though 'Race' had a low correlation, when removed from the model, the accuracy had a considerable deprovement, as such we decided to keep it in the model. Through this, we can see that variables such as 'Physical Health' and 'Age Category' are good predictors for Heart Disease.
 
-One important fact gained from this, is that age is a very important factor in predicting Heart Disease as we can see an obvious relation in the Heart Disease - Age Category Graph, and the results gained from our corr and the model further proves it.
+One important fact gained from this, is that age is a very important factor in predicting Heart Disease as we can see an obvious relation in the Heart Disease - Age Category Graph, and the results gained from our correlation and the model further supports this.
 
 We are able to predict the possibility of a Heart Disease with an accuracy of around 76% with fewer predictors at the end.
 
