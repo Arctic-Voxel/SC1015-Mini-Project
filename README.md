@@ -18,6 +18,9 @@ Which models and factors would be most effective in predicting heart disease?
 ## Tools Used
 
 As our dataset is highly Categorical, we used two preprocessing tools such as the OrdinalEncoder and the LabelEncoder to prepare our train and test.
+
+The categorical predictors in our train and test would be transformed into numerical categories beginning from 0 such as 0 and 1 for Binary Predictors which helps the model to better predict the classification of Heart Disease.
+
 Afterwards, we used the SelectKBest tool that is capable of selecting features according to the k highest scores using the Chi function. This helps us to find the features that are the highly like to be irrelevant for classification.
 
 ## Models Used
